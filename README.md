@@ -11,12 +11,12 @@
 
 we will create these each of these features for both train and test data points
 1.Weight Features
-   weight of incoming edges                           
-   weight of outgoing edges                        
-   weight of incoming edges + weight of outgoing edges          
-   weight of incoming edges * weight of outgoing edges               
-   2*weight of incoming edges + weight of outgoing edges               
-   weight of incoming edges + 2*weight of outgoing edges             
+     weight of incoming edges                           
+     weight of outgoing edges                        
+     weight of incoming edges + weight of outgoing edges          
+     weight of incoming edges * weight of outgoing edges               
+     2*weight of incoming edges + weight of outgoing edges               
+     weight of incoming edges + 2*weight of outgoing edges             
 2.Page Ranking of source                                  
 3.Page Ranking of dest                                                                
 4.katz of source                                                                  
